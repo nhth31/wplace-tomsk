@@ -53,3 +53,5 @@ python download_and_merge_tiles.py
 
 - Python 3.11+
 - Библиотеки: `requests`, `Pillow`
+
+![Cron job status](https://api.cron-job.org/jobs/6496329/5046fc7072d18798/status-7.svg)
