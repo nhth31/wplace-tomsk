@@ -19,15 +19,15 @@ logger = logging.getLogger(__name__)
 
 # URL-адреса тайлов в виде сетки 3x3
 TILE_URLS = [
-    ["https://backend.wplace.live/files/s0/tiles/1506/631.png", 
-     "https://backend.wplace.live/files/s0/tiles/1507/631.png", 
-     "https://backend.wplace.live/files/s0/tiles/1508/631.png"],
-    ["https://backend.wplace.live/files/s0/tiles/1506/632.png", 
-     "https://backend.wplace.live/files/s0/tiles/1507/632.png", 
-     "https://backend.wplace.live/files/s0/tiles/1508/632.png"],
-    ["https://backend.wplace.live/files/s0/tiles/1506/633.png", 
-     "https://backend.wplace.live/files/s0/tiles/1507/633.png", 
-     "https://backend.wplace.live/files/s0/tiles/1508/633.png"]
+    ["https://backend.wplace.live/files/s0/tiles/1641/946.png", 
+     "https://backend.wplace.live/files/s0/tiles/1642/946.png", 
+     "https://backend.wplace.live/files/s0/tiles/1643/946.png"],
+    ["https://backend.wplace.live/files/s0/tiles/1641/947.png", 
+     "https://backend.wplace.live/files/s0/tiles/1642/947.png", 
+     "https://backend.wplace.live/files/s0/tiles/1643/947.png"],
+    ["https://backend.wplace.live/files/s0/tiles/1641/948.png", 
+     "https://backend.wplace.live/files/s0/tiles/1642/948.png", 
+     "https://backend.wplace.live/files/s0/tiles/1643/948.png"]
 ]
 
 # Размеры
